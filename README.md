@@ -35,6 +35,7 @@ This project demonstrates backend architecture, middleware validation, JWT authe
 
 ## 📂 Project Structure
 
+```
 spotify-backend/
 │
 ├── src/
@@ -51,6 +52,7 @@ spotify-backend/
 ├── .env.example
 └── README.md
 
+```
 
 
 ---
